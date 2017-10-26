@@ -4,7 +4,7 @@
 double find_avg(int n, int *a);
 
 int main(){
-  int n, dicks, blackdicks;
+  int n;
   double avg;
   scanf("%d", &n);
 
